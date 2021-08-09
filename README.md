@@ -8,3 +8,6 @@
 
 ## [NEO Test Results](https://github.com/yourhonor1996/Resume/blob/master/JobVision%20NEO_Mohammad%20Alavi.pdf)
 ![](https://github.com/yourhonor1996/Resume/blob/master/NEO.jpg)
+## [EQ Test Results](https://github.com/yourhonor1996/Resume/blob/master/JobVision%20EQ_Mohammad%20Alavi.pdf)
+![](https://github.com/yourhonor1996/Resume/blob/master/EQ1.jpg)
+![](https://github.com/yourhonor1996/Resume/blob/master/EQ2.jpg)
